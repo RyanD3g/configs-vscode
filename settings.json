@@ -1,0 +1,72 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile",
+
+    "extensions.ignoreRecommendations": true,
+
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontVariations": false,
+    "editor.fontSize": 15,
+    "editor.fontWeight": "400",
+    "workbench.productIconTheme": "fluent-icons",
+    "material-icon-theme.folders.associations": {
+        "adapters": "contract",
+        "grpc": "pipe",
+        "kube": "kubernetes",
+        "main": "lib",
+        "websockets": "pipe",
+        "implementations": "core",
+        "protos": "pipe",
+        "entities": "class",
+        "kafka": "pipe",
+        "use-cases": "functions",
+        "migrations": "tools",
+        "schemas": "class",
+        "useCases": "functions",
+        "eslint-config": "tools",
+        "typeorm": "database",
+        "_shared": "shared",
+        "mappers": "meta",
+        "fakes": "mock",
+        "modules": "components",
+        "subscribers": "messages",
+        "domain": "class",
+        "protocols": "contract",
+        "infra": "app",
+        "view-models": "views",
+        "presentation": "template",
+        "dtos": "typescript",
+        "http": "container",
+        "providers": "include",
+        "factories": "class",
+        "repositories": "mappings"
+      },
+    "material-icon-theme.activeIconPack": "nest",
+    "[prisma]": {
+        "editor.formatOnSave": true
+      },
+    "explorer.compactFolders": false,
+    "workbench.editor.untitled.hint": "hidden",
+    "typescript.suggest.autoImports": true,
+    "editor.lineHeight": 26,
+    "material-icon-theme.languages.associations": {
+        "dotenv": "tune"
+    },
+    "material-icon-theme.files.associations": {
+        "tsconfig.json": "tune",
+        "*.webpack.js": "webpack",
+        "*.proto": "3d",
+        "ormconfig.json": "database"
+      },
+      "editor.suggestSelection": "first",
+      "workbench.editor.labelFormat": "short",
+      "editor.minimap.enabled": false,
+
+    "javascript.updateImportsOnFileMove.enabled": "always",
+
+    "editor.renderLineHighlight": "gutter",
+    "cSpell.language": "en,pt",
+    "editor.parameterHints.enabled": false
+}
